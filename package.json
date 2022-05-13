@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@liquality/bitcoin-bitcore-rpc-provider": "^0.2.5",
-    "@liquality/bitcoin-ledger-provider": "^0.2.5",
+    "@liquality/bitcoin-ledger-provider": "^0.10.4",
     "@liquality/bitcoin-networks": "^0.2.5",
     "@liquality/bitcoin-swap-provider": "^0.2.5",
     "@liquality/client": "^0.2.5",
